@@ -8,7 +8,11 @@
     "export": "next export"
   },
   "dependencies": {
+    "@chakra-ui/react": "^2.4.8",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
     "cypress": "^10.0.3",
+    "framer-motion": "^8.4.2",
     "next": "^12.1.5",
     "nprogress": "^0.2.0",
     "react": "^18.0.0",
